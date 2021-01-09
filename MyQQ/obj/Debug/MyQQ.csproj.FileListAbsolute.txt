@@ -1,0 +1,145 @@
+D:\MyQQ\bin\Debug\MyQQ.exe.config
+D:\MyQQ\bin\Debug\MyQQ.exe
+D:\MyQQ\bin\Debug\MyQQ.pdb
+D:\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+D:\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+D:\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+D:\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+D:\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+D:\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+D:\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+D:\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+D:\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+D:\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+D:\MyQQ\obj\Debug\MyQQ.exe
+D:\MyQQ\obj\Debug\MyQQ.pdb
+D:\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\bin\Debug\MyQQ.exe.config
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.exe
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\bin\Debug\MyQQ.exe
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\bin\Debug\MyQQ.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\bin\Debug\MyQQ.exe.config
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\bin\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\bin\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 仿QQ聊天软件\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\bin\Debug\MyQQ.exe.config
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\bin\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\bin\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\04 Q友\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\bin\Debug\MyQQ.exe.config
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\bin\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\bin\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\bin\Debug\MyQQ.exe.config
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\bin\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\bin\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\bin\Debug\MyQQ.exe.config
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\bin\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\01 Q友——做你自己的QQ\Project\MyQQ\bin\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\bin\Debug\MyQQ.exe.config
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\bin\Debug\MyQQ.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\bin\Debug\MyQQ.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\01\Project\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\bin\Debug\MyQQ.exe.config
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\bin\Debug\MyQQ.exe
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\bin\Debug\MyQQ.pdb
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Login.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Chat.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Head.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Register.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Main.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_EditInfo.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_Remind.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.Frm_AddFriend.resources
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.exe
+C:\Users\lenovo\Desktop\MyQQ\MyQQ\obj\Debug\MyQQ.pdb
